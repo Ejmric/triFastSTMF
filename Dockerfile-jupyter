@@ -1,0 +1,5 @@
+# Start from a core stack version
+FROM jupyter/scipy-notebook:python-3.10.6
+
+COPY requirements.txt /tmp/
+RUN conda install --file /tmp/requirements.txt
