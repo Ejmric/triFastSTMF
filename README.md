@@ -51,6 +51,6 @@ fidelity is a key regulator of ant social organization](https://www.science.org/
 6136, pp. 1090–1093.
 
 <a id="2">[2]</a> 
-R. A. Rossi and N. K. Ahmed (2015) [The network data repository with
+R. A. Rossi and N. K. Ahmed (2015). [The network data repository with
 interactive graph analytics and visualization](http://networkrepository.com). AAAI. [Online].
 Available: http://networkrepository.com
