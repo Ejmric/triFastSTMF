@@ -1,5 +1,6 @@
 [![DOI](https://img.shields.io/badge/DOI-arXiv-red)](https://arxiv.org/abs/2305.06624)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ejmric/triFastSTMF/HEAD)
+[![DOI](https://zenodo.org/badge/613025677.svg)](https://zenodo.org/badge/latestdoi/613025677)
 
 # triFastSTMF: Matrix tri-factorization over the tropical semiring
 
